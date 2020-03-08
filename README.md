@@ -9,8 +9,7 @@ website: [github pages website](http://meskarune.github.io/swaylock-fancy/)
 
 Dependencies
 ------------
-* <s>[swaylock-color-git](https://github.com/eBrnd/swaylock-color)</s>
-* [swaylock-color-git](https://github.com/PandorasFox/swaylock-color) - this is a fork of swaylock-color that is kept up to date with swaylock
+* [swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 * imagemagick
 * bash
 * awk
